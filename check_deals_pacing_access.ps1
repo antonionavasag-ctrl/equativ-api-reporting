@@ -1,3 +1,7 @@
+# SECURITY NOTE:
+# This script does not contain API credentials directly.
+# It reads CLIENT_ID and CLIENT_SECRET from a local Python file.
+# Do not upload real credentials or report output files to GitHub.
 # ============================================================
 # Equativ API Access Checker
 # Endpoint: /report/deals/pacing
