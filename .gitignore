@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Equativ local outputs and sensitive files
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+# Equativ generated report files
+reporte_equativ.csv
+reporte_deals.csv
+access_results.csv
+deals_pacing_access_results.csv
+
+# Environment / secrets
+.env
