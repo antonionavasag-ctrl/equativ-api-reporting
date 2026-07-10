@@ -1,4 +1,3 @@
-# equativ-api-reporting
 # Equativ API Reporting
 
 Python and PowerShell scripts for testing Equativ API reporting access, exporting reporting data, and preparing API outputs for analysis.
